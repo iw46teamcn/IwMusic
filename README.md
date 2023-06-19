@@ -4,6 +4,7 @@
 ### 由iw46 Dasb LYM进行维护
 # 秘钥系统暂未完成开发，密钥不定时更改，获取请访问iw46teamcn.github.io
 ### 该网站也同样是iw46Team的官方网站！
+# 请注意🥇抽卡系统仅供娱乐，并非原创!原帖请查找https://github.com/lswlc33/Yuanshen_Lottery_Simulator?native.theme=1
 ### 以后打算这样做
 * 吃席
 * 白嫖
